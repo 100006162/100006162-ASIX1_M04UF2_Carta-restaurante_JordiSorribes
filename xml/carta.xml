@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <!-- PIZZAS -->
+    <plato tipo="pizzas">
+        <nombre>Pizza Frutti di Mare</nombre>
+        <precio>(€16.99)</precio>
+        <descripcion>Pizza con salsa de tomate, mozzarella, mejillones, calamares, gambas, almejas y un toque de perejil fresco.</descripcion>
+        <calorias>900 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/lacteos.png</item>
+        </ingredientes>
+    </plato>
+    <plato tipo="pizzas">
+        <nombre>Pizza Calzone</nombre>
+        <precio>(€15.99)</precio>
+        <descripcion>Calzone relleno de mozzarella, ricotta, salami, champiñones, y salsa de tomate, horneado hasta obtener una masa dorada y crujiente.</descripcion>
+        <calorias>950 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+            <item>img/lacteos.png</item>
+        </ingredientes>
+    </plato>
+    <plato tipo="pizzas">
+        <nombre>Pizza Tonno e Cipolla</nombre>
+        <precio>(€14.99)</precio>
+        <descripcion>Pizza con salsa de tomate, mozzarella, atún, cebolla roja y aceitunas verdes.</descripcion>
+        <calorias>850 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+            <item>img/lacteos.png</item>
+        </ingredientes>
+    </plato>
+    <plato tipo="pizzas">
+        <nombre>Pizza Vegetariana con Pesto</nombre>
+        <precio>(€13.99)</precio>
+        <descripcion>Pizza con salsa de pesto, mozzarella, tomate cherry, pimientos asados, berenjenas y rúcula fresca.</descripcion>
+        <calorias>800 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/lacteos.png</item>
+        </ingredientes>
+    </plato>
+    <plato tipo="pizzas">
+        <nombre>Pizza Quattro Stagioni</nombre>
+        <precio>(€16.99)</precio>
+        <descripcion>Pizza dividida en cuatro secciones con jamón, alcachofas, champiñones y aceitunas, representando las cuatro estaciones del año.</descripcion>
+        <calorias>900 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+            <item>img/lacteos.png</item>
+        </ingredientes>
+    </plato>
+    <plato tipo="pizzas">
+        <nombre>Pizza Bufala e Prosciutto Crudo</nombre>
+        <precio>(€17.99)</precio>
+        <descripcion>Pizza con salsa de tomate, mozzarella de búfala, jamón crudo, tomate cherry y rúcula.</descripcion>
+        <calorias>850 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+        </ingredientes>
+    </plato>
+    <plato tipo="pizzas">
+        <nombre>Pizza Siciliana con Anchoas</nombre>
+        <precio>(€12.99)</precio>
+        <descripcion>Pizza con salsa de tomate, mozzarella, anchoas, aceitunas negras, alcaparras y orégano.</descripcion>
+        <calorias>800 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+        </ingredientes>
+    </plato>
+    <plato tipo="pizzas">
+        <nombre>Pizza Margherita D.O.P</nombre>
+        <precio>(€15.99)</precio>
+        <descripcion>Pizza con salsa de tomate, auténtica mozzarella de búfala Campana D.O.P., tomate fresco y hojas de albahaca.</descripcion>
+        <calorias>750 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+        </ingredientes>
+    </plato>
+   
+    <!-- PASTA -->
+    <plato tipo="pasta">
+        <nombre>Tagliatelle al Ragù Toscano</nombre>
+        <precio>(€14.99)</precio>
+        <descripcion>Tagliatelle frescos servidos con una deliciosa salsa ragù toscana, preparada con carne de cerdo, panceta, zanahorias, apio, cebolla, vino tinto y tomate.</descripcion>
+        <calorias>850 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+        </ingredientes>
+    </plato>
+    <plato tipo="pasta">
+        <nombre>Gnocchi alla Sorrentina</nombre>
+        <precio>(€13.99)</precio>
+        <descripcion>Gnocchi caseros bañados en una salsa de tomate fresco, mozzarella derretida, albahaca y queso Parmigiano-Reggiano.</descripcion>
+        <calorias>800 kcal</calorias>
+        <ingredientes>
+             <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+            <item>img/lacteos.png</item>
+        </ingredientes>
+    </plato>
+    <plato tipo="pasta">
+        <nombre>Fettuccine Alfredo con Pollo</nombre>
+        <precio>(€16.99)</precio>
+        <descripcion>Fettuccine en una cremosa salsa Alfredo de mantequilla, nata, ajo y queso Parmigiano-Reggiano, con tiernos trozos de pollo a la parrilla.</descripcion>
+        <calorias>900 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/lacteos.png</item>
+        </ingredientes>
+    </plato>
+    <plato tipo="pasta">
+        <nombre>Cannelloni di Carne</nombre>
+        <precio>(€15.99)</precio>
+        <descripcion>Cannelloni rellenos de carne de ternera, espinacas y ricotta, horneados en una salsa de tomate y bechamel, cubiertos con queso mozzarella gratinado.</descripcion>
+        <calorias>950 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+            <item>img/lacteos.png</item>
+        </ingredientes>
+    </plato>
+    <plato tipo="pasta">
+        <nombre>Farfalle al Salmone Affumicato</nombre>
+        <precio>(€17.99)</precio>
+        <descripcion>Farfalle cocidos al dente en una salsa cremosa de salmón ahumado, cebolla, vodka y nata, terminados con eneldo fresco.</descripcion>
+        <calorias>850 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+            <item>img/lacteos.png</item>
+        </ingredientes>
+    </plato>
+    <plato tipo="pasta">
+        <nombre>Orecchiette con Broccoli e Salsiccia</nombre>
+        <precio>(€14.99)</precio>
+        <descripcion>Orecchiette con brócoli al vapor y salchicha italiana picante, salteados en aceite de oliva con ajo, chile rojo y queso Pecorino Romano.</descripcion>
+        <calorias>800 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+            <item>img/lacteos.png</item>
+        </ingredientes>
+    </plato>
+    <plato tipo="pasta">
+        <nombre>Ravioli di Zucca con Salsa di Burro e Salvia</nombre>
+        <precio>(€15.99)</precio>
+        <descripcion>Raviolis rellenos de calabaza asada y ricotta, servidos con una delicada salsa de mantequilla y salvia, adornados con nueces picadas.</descripcion>
+        <calorias>750 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+            <item>img/lacteos.png</item>
+        </ingredientes>
+    </plato>
+    <plato tipo="pasta">
+        <nombre>Paccheri alla Puttanesca</nombre>
+        <precio>(€13.99)</precio>
+        <descripcion>Paccheri con una salsa picante de tomate, anchoas, aceitunas negras, alcaparras, ajo y chile rojo.</descripcion>
+        <calorias>850 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+            <item>img/lacteos.png</item>
+        </ingredientes>
+    </plato>
+
+    <!-- HAMBURGUESAS -->
+    <plato tipo="hamburguesa">
+        <nombre>Burger Italiana con Pesto</nombre>
+        <precio>(€15.99)</precio>
+        <descripcion>Hamburguesa de carne de res sazonada con hierbas italianas, servida con pesto de albahaca, tomate fresco, rúcula y queso mozzarella.</descripcion>
+        <calorias>850 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/lacteos.png</item>
+        </ingredientes>
+    </plato>
+    <plato tipo="hamburguesa">
+        <nombre>Burger de Pollo Parmigiana</nombre>
+        <precio>(€13.99)</precio>
+        <descripcion>Pechuga de pollo empanizada cubierta con salsa de tomate casera y queso mozzarella, servida en un bollo de hamburguesa con lechuga y tomate.</descripcion>
+        <calorias>800 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+            <item>img/lacteos.png</item>
+        </ingredientes>
+    </plato>
+    <plato tipo="hamburguesa">
+        <nombre>Burger Vegetariana de Berenjena</nombre>
+        <precio>(€12.99)</precio>
+        <descripcion>Hamburguesa vegetariana hecha con una sabrosa berenjena a la parrilla, servida con tomate, rúcula, pesto de albahaca y queso de cabra.</descripcion>
+        <calorias>700 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+            <item>img/lacteos.png</item>
+        </ingredientes>
+    </plato>
+    <plato tipo="hamburguesa">
+        <nombre>Burger de Cordero con Queso Feta</nombre>
+        <precio>(€17.99)</precio>
+        <descripcion>Hamburguesa de cordero sazonada con hierbas griegas, cubierta con queso feta desmenuzado, pepino encurtido, tomate y salsa tzatziki.</descripcion>
+        <calorias>950 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/lacteos.png</item>
+        </ingredientes>
+    </plato>
+    
+    <!-- POSTRES -->
+    <plato tipo="postres">
+        <nombre>Tiramisú Tradicional</nombre>
+        <precio>(€7.99)</precio>
+        <descripcion> Deliciosas capas de bizcocho de soletilla empapadas en café, intercaladas con una suave mezcla de mascarpone, huevos y azúcar, espolvoreadas con cacao en polvo.</descripcion>
+        <calorias>350 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/lacteos.png</item>
+        </ingredientes>
+    </plato>
+    <plato tipo="postres">
+        <nombre>Panna Cotta con Salsa de Frutos Rojos</nombre>
+        <precio>(€6.99)</precio>
+        <descripcion>Panna cotta cremosa y delicada, aromatizada con vainilla y acompañada de una salsa fresca de frutos rojos (fresas, frambuesas, moras) ligeramente endulzada.</descripcion>
+        <calorias>300 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/lacteos.png</item>
+        </ingredientes>
+    </plato>
+    <plato tipo="postres">
+        <nombre>Cannoli Siciliani </nombre>
+        <precio>(€8.99)</precio>
+        <descripcion>Tubos de masa crujiente y frita rellenos de una mezcla dulce de ricotta, azúcar glas y trocitos de chocolate, adornados con pistachos picados en los extremos.</descripcion>
+        <calorias>400 kcal</calorias>
+        <ingredientes>
+            <item>img/gluten.png</item>
+            <item>img/lacteos.png</item>
+            <item>img/frutos_secos.png</item>
+        </ingredientes>
+    </plato>
+</menu>
